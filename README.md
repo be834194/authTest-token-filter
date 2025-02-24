@@ -3,7 +3,7 @@
 
 ## ログイン
 ```
-POSt http://localhost:8080/login
+POST http://localhost:8080/login
 {
   "username": "...",
   "password": ""
